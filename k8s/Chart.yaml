@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_MONITOR
+name: alice-monitor
 description: ALICE Monitor
 type: application
 version: 0.1.0
